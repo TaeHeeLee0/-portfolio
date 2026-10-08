@@ -1,6 +1,6 @@
 # 이태희 | Backend Developer Portfolio
 
-📄 **[포트폴리오 PDF 보기](./portfolio.pdf)**
+📄 **[포트폴리오 PDF 보기](./portfolio.pdf)** · **[PDF 다운로드](https://github.com/TaeHeeLee0/-portfolio/raw/main/portfolio.pdf)**
 
 <p align="center">
   <img src="./portfolio.jpg" alt="이태희 포트폴리오" width="100%">
